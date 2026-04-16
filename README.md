@@ -57,7 +57,7 @@ Live demo:     "House 842 Mahalapye" construction project
 ---
 
 ### 🛰️ FMD Predictor — Foot-and-Mouth Disease Outbreak ML
-**ML-based predictive modeling for FMD outbreaks in Botswana** using BOTSAT-1 satellite data. My FMD thesis, supervised by Dr. Otlhapile Dinakenyane.
+**ML-based predictive modeling for FMD outbreaks in Botswana** using BOTSAT-1 satellite data. My FMD thesis.
 
 ```
 Data source:  BOTSAT-1 satellite imagery · epidemiological records
